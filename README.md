@@ -8,9 +8,6 @@
 > Whatsapp: `wa.me//+19412543858`
 ```
 
-# Drawl Nag
-Simple WhatsApp Bot
-
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
@@ -44,13 +41,3 @@ Simple WhatsApp Bot
 > node index.js
 ```
 
-# Recode: Drawl Nag
-Script: @Nurutomo
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
-
-</p>
-
-</p>
-
-[GITHUB](https://github.com/Arya274)
