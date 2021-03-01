@@ -5,7 +5,7 @@
 > Public bot
 > Bot by shameem
 > Instagram: shameemms762
-> Whatsapp: wa.me//+19412543858
+> Whatsapp: [`wa.me//+19412543858`](https://wa.me//+19412543858) <br>
 ```
 
 # Drawl Nag
